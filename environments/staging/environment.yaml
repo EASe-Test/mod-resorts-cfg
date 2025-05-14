@@ -6,12 +6,12 @@ app:
   endpoints: public
 
   # build id to deploy. if 'version' is commented out, the application is not deployed
-  version: ""
+  version: "a3caea5c-0762-452e-82cd-81f47157c9b3"
 
   # number of instances
   instances:
     # min number of instances. can be 0 for scale to 0. default to 1.
-    min: 2
+    min: 1
     
     # max number of instances. defaults to 1 if min == 0, otherwise defaults to min
     max: 3
