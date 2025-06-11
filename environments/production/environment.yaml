@@ -6,7 +6,7 @@ app:
   endpoints: public
 
   # build id to deploy. if 'version' is commented out, the application is not deployed
-  version: "c5347361-17cc-4320-845b-18b339e75ff3"
+  version: "df282216-d252-436a-a2a3-08b92912a782"
 
   # number of instances
   instances:
