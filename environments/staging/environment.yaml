@@ -6,7 +6,7 @@ app:
   endpoints: public
 
   # build id to deploy. if 'version' is commented out, the application is not deployed
-  version: "66e56815-728b-4736-96f5-3f9d2f337188"
+  version: "b4b674f9-187e-4f6d-ae79-fa50cf1d57ea"
 
   # number of instances
   instances:
@@ -17,5 +17,5 @@ app:
     max: 3
     
   resources:
-    # max cpu. memory limit is based on cpu value: 1:3 memory ratio, e.g. 1 cpu == 3 gb
+    # max cpu. memory limit is based on cpu value: 1:4 memory ratio, e.g. 1 cpu == 3 gb
     cpu: 1
