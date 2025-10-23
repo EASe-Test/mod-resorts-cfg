@@ -1,12 +1,12 @@
 #
-# Configuration for staging environment
+# Configuration for production environment
 #
 version: 1.0
 app:
   endpoints: public
 
   # build id to deploy. if 'version' is commented out, the application is not deployed
-  version: "b8d8e96f-1a05-405a-a333-2378565e509b"
+  version: "484846f0-32f1-4b4f-943e-8ea32850fdbc"
 
   # number of instances
   instances:
